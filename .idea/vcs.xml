@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Codebert/Defect-detection/preprocess/tree-sitter-c" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Codebert/Defect-detection/preprocess/tree-sitter-cpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Codebert/Defect-detection/preprocess/tree-sitter-python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Codebert/python_parser/parser_folder/tree-sitter-c" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Codebert/python_parser/parser_folder/tree-sitter-cpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Codebert/python_parser/parser_folder/tree-sitter-java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Codebert/python_parser/parser_folder/tree-sitter-python" vcs="Git" />
+  </component>
+</project>
